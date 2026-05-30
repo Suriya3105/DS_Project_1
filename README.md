@@ -1,4 +1,4 @@
-# Project_1 Global Seismic Trends: Data-Driven Earthquake Insights.
+# DS_Project_1 Global Seismic Trends: Data-Driven Earthquake Insights.
 ## Dataset
 
 Google Sheet:
